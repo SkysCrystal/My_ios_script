@@ -1,0 +1,9 @@
+{
+    "name": "Skys remote gallery", 
+    "description": "https://github.com/SkysCrystal/ios_script", 
+    "task": [
+        {
+            "config": "0 8 * * * https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/xiaole.js, tag=小乐, img-url=https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/xiaole.png, enabled=true"
+        }, 
+    ]
+}
