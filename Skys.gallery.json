@@ -4,6 +4,7 @@
     "task": [
         {
             "config": "0 8 * * * https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/xiaole.js, tag=小乐, img-url=https://raw.githubusercontent.com/SkysCrystal/ios_script/main/icon/xiaole.png, enabled=true"
+            "config": "0 9 * * * https://raw.githubusercontent.com/NobyDa/Script/master/iQIYI-DailyBonus/iQIYI.js, tag=爱奇艺会员签到, img-url=https://raw.githubusercontent.com/SkysCrystal/ios_script/main/icon/xiaole.png, enabled=true"
         }, 
     ]
 }
